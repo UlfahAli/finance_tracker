@@ -38,7 +38,7 @@ finance_tracker helps you record and categorize income and expenses, view summar
 
 - Run the application (replace with actual start command):
 
-  python main.py
+  go run main.go
 
 - Or open the project in your preferred IDE and follow its run/debug instructions.
 
@@ -52,8 +52,7 @@ Contributions are welcome. Please open an issue to discuss changes, then submit 
 
 ## License
 
-This repository does not specify a license. To make the licensing explicit, add a LICENSE file (for example, MIT) or update this section.
-
+This repository does not specify a license. 
 ---
 
 Notes: Edit this README to match the project's language, dependencies, and run instructions.
