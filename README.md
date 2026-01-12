@@ -48,11 +48,9 @@ finance_tracker helps you record and categorize income and expenses, view summar
 
 ## Contributing
 
-Contributions are welcome. Please open an issue to discuss changes, then submit a pull request.
+Contributions are not necessary.
 
 ## License
 
 This repository does not specify a license. 
 ---
-
-Notes: Edit this README to match the project's language, dependencies, and run instructions.
