@@ -12,8 +12,12 @@ A small finance-tracking app to track expenses and income.
 - [Contributing](#contributing)
 - [License](#license)
 
-## About
 
+## About
+finance_tracker is a Go-based backend project for tracking income and expenses.
+It is designed as a production-minded project, with an
+emphasis on clean code, clear domain modeling, and future extensibility into a
+REST API.
 finance_tracker helps you record and categorize income and expenses, view summaries, and export data for analysis.
 
 ## Features
