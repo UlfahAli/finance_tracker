@@ -20,12 +20,18 @@ emphasis on clean code, clear domain modeling, and future extensibility into a
 REST API.
 finance_tracker helps you record and categorize income and expenses, view summaries, and export data for analysis.
 
-## Features
 
-- Add, edit, and remove transactions
-- Categorize transactions (income, expense, custom categories)
-- View monthly and yearly summaries
-- Export/import CSV
+## Current Features
+- Record income and expense transactions
+- Categorize transactions (income, expense)
+- Basic calculation of totals
+
+## Planned Features
+- Monthly and yearly summaries
+- CSV import/export
+- REST API interface
+- Data persistence (database-backed storage)
+
 
 ## Installation
 
